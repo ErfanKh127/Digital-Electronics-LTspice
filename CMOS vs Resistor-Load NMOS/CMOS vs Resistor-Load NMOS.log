@@ -1,0 +1,16 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Projects\Uni\Electronic Digital\Draft2.net
+Start Time: Sun Oct 26 16:15:59 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.208 seconds.
+
+Files loaded:
+C:\Projects\Uni\Electronic Digital\Draft2.net
+C:\Users\erfan\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Projects\Uni\Electronic Digital\BSIM4_065.lib
+
